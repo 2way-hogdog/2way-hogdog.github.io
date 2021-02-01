@@ -1,0 +1,15 @@
+title: 2way-hogdog's hentai tools
+canonical: https://2way-hogdog.github.io/
+
+author:
+  name: 2way-hogdog
+
+# description: nothing
+
+show_excerpts: false
+
+minima:
+  date_format: "%Y-%m-%d"
+  skin: exh
+
+theme: minima
